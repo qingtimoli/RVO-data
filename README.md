@@ -1,2 +1,2 @@
 # RVO-dataset
-RVO data
+RVO dataset
